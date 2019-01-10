@@ -53,3 +53,7 @@ main h1 {
 #mainpanel-content {
     margin: 50px;
 }
+#newGodPhoto {
+    width: 500px;
+    height: 250px;
+}
